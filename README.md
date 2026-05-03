@@ -19,7 +19,7 @@ VORTEX ETERNITY is a single-file HTML/JavaScript application that makes relativi
 
 ## 🌐 Live Demo
 
-**[→ Launch VORTEX ETERNITY](https://liranog.github.io/VORTEX-ETERNITY/)**
+**[→ Launch VORTEX ETERNITY](https://liranog.github.io/VORTEX/)**
 
 No installation. No dependencies to install. Open in any modern browser.
 
