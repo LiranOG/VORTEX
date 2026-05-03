@@ -11,7 +11,8 @@
 
  **Interactive relativistic gravitational dynamics — running entirely in your browser.**
 
-VORTEX ETERNITY is a single-file HTML/JavaScript application that makes relativistic gravitational physics interactive and inspectable in real time. It implements Post-Newtonian dynamics up to 2.5PN order, full gravitational-wave emission, and a suite of astrophysical preset scenarios — all rendered live with Three.js/WebGL.
+VORTEX ETERNITY is a single-file HTML/JavaScript application that makes relativistic gravitational physics interactive and inspectable in real time. It implements Post-Newtonian dynamics up to 2.5PN order, full gravitational-wave emission, and a suite of astrophysical preset scenarios 
+ all rendered live with Three.js/WebGL. (Currently in active development)
 
 ---
 
