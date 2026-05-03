@@ -21,7 +21,22 @@ VORTEX ETERNITY is a single-file HTML/JavaScript application that makes relativi
 
 **[→ Launch VORTEX ETERNITY](https://liranog.github.io/VORTEX/)**
 
-No installation. No dependencies to install. Open in any modern browser.
+>**No installation. No dependencies to install. Open in any modern browser.**
+
+---
+
+## 📖 Extended Technical Documentation
+
+This repository contains the standalone deployment of VORTEX ETERNITY.
+A deeper technical README — covering the full architecture, zero-allocation
+hot-path design, cinematic recording system, Tactical Minimap 3.0, and the
+complete keyboard reference — is maintained inside the GRANITE-NR ecosystem:
+
+**[→ VORTEX ETERNITY — Full Technical Documentation](https://github.com/LiranOG/Granite-NR/tree/main/viz/vortex_eternity)**
+
+VORTEX serves as the interactive WebGL frontend for the GRANITE numerical
+relativity engine, and its extended docs reflect that tighter integration
+with the broader simulation ecosystem.
 
 ---
 
