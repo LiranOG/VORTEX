@@ -3,8 +3,8 @@
 # VORTEX ETERNITY
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=flat&logo=github)](https://liranog.github.io/VORTEX/)
-[![License: GPL 3.0](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)](LICENSE)
 [![Physics](https://img.shields.io/badge/Physics-2.5PN%20Post--Newtonian-purple?style=flat)]()
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 [![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript)](https://github.com/LiranOG/VORTEX)
 [![Three.js](https://img.shields.io/badge/Three.js-r128-black?style=flat&logo=three.js)](https://threejs.org/)
