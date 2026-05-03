@@ -3,7 +3,7 @@
 # VORTEX ETERNITY
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=flat&logo=github)](https://liranog.github.io/VORTEX/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL 3.0](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)](LICENSE)
 [![Physics](https://img.shields.io/badge/Physics-2.5PN%20Post--Newtonian-purple?style=flat)]()
 
 [![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript)](https://github.com/LiranOG/VORTEX)
@@ -164,7 +164,7 @@ Pull requests are welcome, particularly for:
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+GPL 3.0 License — see [LICENSE](LICENSE) for details.
 
 ---
 
