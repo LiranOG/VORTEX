@@ -14,9 +14,12 @@
 VORTEX ETERNITY is a single-file HTML/JavaScript application that makes relativistic gravitational physics interactive and inspectable in real time. It implements Post-Newtonian dynamics up to 2.5PN order, full gravitational-wave emission, and a suite of astrophysical preset scenarios
 all rendered live with Three.js/WebGL.  
 
----
-
 </div>
+
+> [!NOTE]
+>Scientific Scope: VORTEX is a real-time educational and exploratory PN simulator. It is not a full numerical-relativity solver. It models inspiral/pre-merger dynamics and approximate GW diagnostics; plunge, merger, waveform-grade strain, and Ψ₄ extraction require full NR backends such as GRANITE/CCZ4.
+
+---
 
 ## 🌐 Live Demo
 
