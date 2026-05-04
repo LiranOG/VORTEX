@@ -187,5 +187,49 @@ gravitational infall with negligible GW-driven inspiral.
 
 ---
 
+### `VORTEX_3.jpg` — GW150914: First Detected Binary Black Hole Merger
+
+A faithful recreation of the GW150914 event — the first gravitational wave detection
+by LIGO (2015) — using the exact component masses reported in the discovery paper.
+Captured during Phase II (Close Encounter) with the spacetime grid deformation and
+accretion disk geometry visible in real time.
+
+| Parameter | Value |
+|-----------|-------|
+| **Bodies** | BH-36 (36M☉) + BH-29 (29M☉) |
+| **Phase** | II — CLOSE ENCOUNTER |
+| **Simulation time** | T = 662.37 yr |
+| **Semi-major axis** | a = 60.2 |
+| **Eccentricity** | e = 0.003 |
+| **Inclination** | i = 14.0° |
+| **Orbital period** | T_orb = 194.5 yr |
+| **Chirp mass** | M꜀ = 28.1M☉ |
+| **Merger timescale** | T_merge = 8.81×10⁸ yr |
+| **GW strain h₊** | −2.23×10⁻⁶ G/c⁴ |
+| **GW strain h×** | 3.04×10⁻⁷ G/c⁴ |
+| **GW dominant freq** | 1.03×10⁻² Hz_sim |
+| **Lense-Thirring spin** | 2.46×10¹, χ_eff = 0.161 |
+| **GW Peters quad.** | 8.749×10⁻⁹ c⁵/G |
+| **PN parameter X** | 0.0004 |
+| **GW phase dephasing** | 0.000 rad |
+| **KE** | 3.019×10³⁹ |
+| **PE** | −6.054×10³⁹ |
+| **Hamiltonian H(Q,P)** | −3.035×10³⁹ |
+| **Peak velocity** | 1073.0 km/s |
+| **Min separation** | 60.3 |
+| **Angular momentum \|L\|** | 1.88×10³ |
+| **Linear momentum \|P\|** | 7.30×10⁻² |
+| **Geometric lapse** | A_min = 0.9998 |
+| **Symplectic ΔE** | 5.28×10⁻⁹ |
+| **FPS / SUB** | 60 / 10 |
+
+The near-circular orbit (e=0.003) and low PN parameter (X=0.0004) place this system
+in the quasi-circular inspiral regime consistent with the original LIGO parameter
+estimation. The χ_eff = 0.161 reflects the aligned-spin contribution to the orbital
+evolution. The spacetime grid deformation visible in the image is driven by the
+combined 65M☉ of the binary at close encounter.
+
+---
+
 *All simulations run in real time at 60 FPS using a 4th-order Hermite predictor-corrector
 integrator with Kahan compensated summation. PN dynamics implemented through 2.5PN order.*
