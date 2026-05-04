@@ -155,6 +155,36 @@ consistent with original parameter estimation. Spacetime grid deformation driven
 combined 65M☉ at close encounter.
 
 ---
+
+### GW170817 — Binary Neutron Star Merger
+![GW170817](assets/VORTEX_5.jpg)
+**NS-1 (1.5M☉) + NS-2 (1.3M☉)** · Phase II — CLOSE ENCOUNTER · T = 1322.75 yr
+ 
+| | |
+|---|---|
+| a = 24.0 · e = 0.003 · i = 9.5° · T_orb = 239.7 yr | M꜀ = 1.2M☉ · T_merge = 3.01×10¹¹ yr |
+| h₊ = −9.87×10⁻⁹ · h× = −2.53×10⁻¹⁰ G/c⁴ | f_GW = 8.30×10⁻³ Hz · χ_eff = 0.857 |
+| X_PN ≈ 0.0000 · **ΔE = 0.0000%** · SUB = 137 | Δφ = −0.011 rad · L_GW = 1.102×10⁻¹³ |
+ 
+First binary NS merger detected by LIGO-Virgo (2017). X_PN ≈ 0 and ΔE = 0.0000%
+confirm extreme weak-field regime at this inspiral stage.
+ 
+---
+ 
+### SgrA\* Galactic Center — S2 Star + G2 Cloud Cascade
+![SgrA*](assets/VORTEX_3.jpg)
+**Sgr A\* (4160M☉) + S2 (14M☉) + G2-Cloud (3M☉)** · Phase III — CASCADE · T = 22.44 yr · 1 Merger
+ 
+| | |
+|---|---|
+| M꜀ = 5.3M☉ · GW Mass Defect = 0.007M☉ | h₊ = 8.17×10⁻⁵ · h× = −6.41×10⁻⁶ G/c⁴ |
+| f_GW = 9.80×10⁻⁴ Hz · χ_eff = 0.029 | **X_PN = 0.0274** ← highest in gallery |
+| **A_min = 0.9787** ← lowest in gallery | Δφ = −5.177 rad · ΔE = 4.15×10⁻⁴ |
+ 
+Strongest relativistic corrections in this gallery — A_min = 0.9787 driven by 4160M☉
+Sgr A\* at close encounter. Δφ = −5.177 rad represents significant accumulated precession.
+
+---
  
 ### EMRI — Extreme Mass-Ratio Inspiral
 ![EMRI](assets/Untitled7.jpg)
