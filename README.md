@@ -59,14 +59,28 @@ with the broader simulation ecosystem.
 - Accretion disk luminosity rendering (Novikov-Thorne model)
 - CSV telemetry export for offline analysis
 
-### Astrophysical Scenarios
+## Astrophysical Scenarios
+
 | Scenario | Description |
 |----------|-------------|
-| **GW150914** | First detected binary black hole merger (LIGO 2015) |
-| **GW170817** | Binary neutron star merger with kilonova |
-| **EMRI** | Extreme mass-ratio inspiral — stellar black hole orbiting SMBH |
-| **ZKL Triple** | Kozai-Lidov oscillations in a hierarchical triple system |
-| **Galactic Center** | S-star cluster orbiting Sgr A* |
+| **GW150914** | First detected binary black hole merger (LIGO 2015) — BH-36 + BH-29, M꜀=28.1M☉ |
+| **GW170817** | Binary neutron star merger with kilonova (LIGO-Virgo 2017) — NS-1 + NS-2, M꜀=1.2M☉ |
+| **EMRI (LISA)** | Extreme mass-ratio inspiral — Stellar-BH (10M☉) orbiting SMBH (1000M☉) |
+| **ZKL Triple** | Kozai-Lidov eccentricity oscillations in a hierarchical triple system |
+| **Galactic Center** | S2 star + G2 cloud cascade around Sgr A\* (4160M☉) |
+| **Oort Cloud Infall** | Host-Star (300M☉) + 8-comet system in long-period eccentric infall |
+| **N-body Cascade** | 7-body tri-species system — R136a1-class stars + compact objects |
+| **Retrograde Chaos** | Counter-rotating multi-body system with chaotic orbital evolution |
+| **Circumbinary Haven** | Stable and unstable orbits around a close binary pair |
+| **Pulsar Playground** | Pulsar timing dynamics in a multi-body environment |
+| **Solar System** | Full Solar System from J2000.0 state vectors — Sun through Neptune |
+| **Interstellar Pass-by** | Hyperbolic stellar encounter with tidal perturbation |
+| **Kosai-Lidov** | Extended KL oscillation suite with variable inclination |
+| **TDE Encounter** | Tidal disruption event — stellar approach to compact object |
+| **Solar Proxy** | Sun-like star with planetary system analog |
+| **Total Eclipse** | Three-body eclipse geometry and shadow dynamics |
+| **Binary Dance** | Choreographic binary with test-particle orbits |
+| **Grand Alignment** | Multi-body syzygy and resonance configuration |
 
 ### Visualization
 - Three.js-based 3D rendering with tactical minimap and HUD
