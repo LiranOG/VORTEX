@@ -13,7 +13,6 @@
 
 VORTEX ETERNITY is a single-file HTML/JavaScript application that makes relativistic gravitational physics interactive and inspectable in real time. It implements Post-Newtonian dynamics up to 2.5PN order, full gravitational-wave emission, and a suite of astrophysical preset scenarios
 all rendered live with Three.js/WebGL.  
-(Currently in active development)
 
 ---
 
@@ -116,8 +115,8 @@ Spin precession is computed using the **Rodrigues rotation formula** applied per
 
 ### Run Locally
 ```bash
-git clone https://github.com/LiranOG/VORTEX-ETERNITY.git
-cd VORTEX-ETERNITY
+git clone https://github.com/LiranOG/VORTEX.git
+cd VORTEX
 # Open index.html in any modern browser
 open index.html
 ```
