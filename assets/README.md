@@ -231,5 +231,74 @@ combined 65M☉ of the binary at close encounter.
 
 ---
 
+### `GW170817.jpg` — GW170817: Binary Neutron Star Merger
+
+A recreation of the first binary neutron star merger detected by LIGO-Virgo (2017) —
+the event that launched multi-messenger astronomy. The characteristic teardrop inspiral
+geometry visible in the image results from the tight quasi-circular orbit and extreme
+mass ratio asymmetry between the two neutron stars.
+
+| Parameter | Value |
+|-----------|-------|
+| **Bodies** | NS-1 (1.5M☉) + NS-2 (1.3M☉) |
+| **Phase** | II — CLOSE ENCOUNTER |
+| **Simulation time** | T = 1322.75 yr |
+| **FPS / SUB** | 61 / 137 |
+| **Semi-major axis** | a = 24.0 |
+| **Eccentricity** | e = 0.003 |
+| **Inclination** | i = 9.5° |
+| **Orbital period** | T_orb = 239.7 yr |
+| **Chirp mass** | M꜀ = 1.2M☉ |
+| **Merger timescale** | T_merge = 3.01×10¹¹ yr |
+| **GW strain h₊** | −9.87×10⁻⁹ G/c⁴ |
+| **GW strain h×** | −2.53×10⁻¹⁰ G/c⁴ |
+| **GW dominant freq** | 8.30×10⁻³ Hz_sim |
+| **Lense-Thirring spin** | 2.27×10⁻¹, χ_eff = 0.857 |
+| **GW Peters quad.** | 1.102×10⁻¹³ c⁵/G |
+| **PN parameter X** | 0.0000 |
+| **GW phase dephasing** | −0.011 rad |
+| **GW Mass Defect** | 0.000M☉ |
+| **Symplectic ΔE** | 0.0000% |
+
+The essentially zero PN parameter (X≈0) and negligible ΔE confirm that this system
+operates in the extreme weak-field regime — consistent with the wide separation
+of the neutron stars at this stage of inspiral. The χ_eff = 0.857 reflects the
+high aligned-spin contribution characteristic of the GW170817 parameter space.
+
+---
+
+### `SgrA.jpg` — SgrA\* Galactic Center: S2 Star + G2 Cloud Encounter
+
+A 3-body simulation of the Galactic Center environment — Sgr A\* (4160M☉) hosting
+both the S2 star and the G2 gas cloud, capturing a cascade event with one merger.
+The X_PN = 0.0274 is the highest in this gallery, confirming strong relativistic
+corrections at the tight separations near the SMBH.
+
+| Parameter | Value |
+|-----------|-------|
+| **Bodies** | Sgr A\* (4160M☉) + S2 (14M☉) + G2-Cloud (3M☉) |
+| **Phase** | III — CASCADE (1M/0T) |
+| **Simulation time** | T = 22.44 yr |
+| **FPS / SUB** | 60 / 10 |
+| **Mergers** | 1 |
+| **Chirp mass** | M꜀ = 5.3M☉ |
+| **GW strain h₊** | 8.17×10⁻⁵ G/c⁴ |
+| **GW strain h×** | −6.41×10⁻⁶ G/c⁴ |
+| **GW dominant freq** | 9.80×10⁻⁴ Hz_sim |
+| **Lense-Thirring spin** | 1.75×10⁴, χ_eff = 0.029 |
+| **GW Peters quad.** | 8.033×10⁻² c⁵/G |
+| **PN parameter X** | 0.0274 ← highest in gallery |
+| **GW phase dephasing** | −5.177 rad |
+| **GW Mass Defect** | 0.007M☉ |
+| **Geometric lapse** | A_min = 0.9787 |
+| **Symplectic ΔE** | 4.15×10⁻⁴ |
+
+The lapse A_min = 0.9787 — the lowest in this gallery — indicates the strongest
+spacetime curvature correction of any scenario shown here, driven by the 4160M☉
+of Sgr A\* at close encounter distances. The Δφ = −5.177 rad represents significant
+relativistic precession accumulated during the cascade.
+
+---
+
 *All simulations run in real time at 60 FPS using a 4th-order Hermite predictor-corrector
 integrator with Kahan compensated summation. PN dynamics implemented through 2.5PN order.*
