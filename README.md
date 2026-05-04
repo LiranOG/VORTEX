@@ -288,14 +288,6 @@ This allows offline analysis with Python/NumPy or any data tool.
 
 ---
 
-## 🔭 Development Methodology
-
-VORTEX ETERNITY was developed through **AI-orchestrated implementation** — directing model-generated code against published formulae (Peters 1964, Blanchet 2014, Campanelli 2007), then auditing, integrating, and verifying numerical behavior.
-
-This is an engineering and learning project rather than credentialed research. Its value lies in hands-on intuition for relativistic two-body dynamics and the practical challenges of real-time scientific visualization.
-
----
-
 ## 📚 References
 
 - Peters, P.C. (1964). *Gravitational Radiation and the Motion of Two Point Masses*. Physical Review.
