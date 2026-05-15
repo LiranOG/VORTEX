@@ -156,7 +156,7 @@ modeled merger event.**
 ---
 
 ### GW150914 — First Detected Binary Black Hole Merger
-![GW150914](assets/VORTEX_3.jpg)
+![GW150914](assets/VORTEX_6.jpg)
 **BH-36 (36M☉) + BH-29 (29M☉)** · Phase II — CLOSE ENCOUNTER · T = 662.37 yr
  
 | | |
