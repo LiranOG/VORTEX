@@ -21,26 +21,38 @@ all rendered live with Three.js/WebGL.
 
 ---
 
-## 🌐 Live Demo
-
-**[→ Launch VORTEX ETERNITY](https://liranog.github.io/VORTEX/)**
-
->**No installation. No dependencies to install. Open in any modern browser.**
-
----
-
-## 📖 Extended Technical Documentation
-
-This repository contains the standalone deployment of VORTEX ETERNITY.
-A deeper technical README — covering the full architecture, zero-allocation
-hot-path design, cinematic recording system, Tactical Minimap 3.0, and the
-complete keyboard reference — is maintained inside the GRANITE-NR ecosystem:
-
-**[→ VORTEX ETERNITY — Full Technical Documentation](https://github.com/LiranOG/Granite-NR/tree/main/viz/vortex_eternity)**
-
-VORTEX serves as the interactive WebGL frontend for the GRANITE numerical
-relativity engine, and its extended docs reflect that tighter integration
-with the broader simulation ecosystem.
+> [!IMPORTANT]
+> ### Development Hiatus — May to August 2026
+>
+> I am stepping back from active development on VORTEX ETERNITY for a
+> few months to attend to personal matters. **The project is not
+> abandoned.**
+>
+> **What remains fully functional during the hiatus:**
+>
+> - The live demo at
+>   [liranog.github.io/VORTEX](https://liranog.github.io/VORTEX/) runs
+>   normally — no installation, no dependencies, all 18 astrophysical
+>   scenarios available (GW150914, GW170817, EMRI, Sgr A* cascade,
+>   ZKL triple, N-body cascade, Solar System, and the rest).
+> - The repository, source, and all documentation remain public.
+> - CSV telemetry export continues to work for offline analysis.
+> - Issues and pull requests will be reviewed in full when I return.
+>
+> **What is paused:**
+>
+> - The single documented open issue — the missing 2PN conservative
+>   correction term in the Post-Newtonian series — will be addressed
+>   after the hiatus, not during it. Energy drift on standard scenarios
+>   remains below ~0.01% in the current build, so the gap is
+>   documented, bounded, and non-blocking for the demo.
+> - New scenarios, integrator upgrades, additional PN orders (3PN /
+>   3.5PN), and the planned tighter integration with the GRANITE-NR
+>   HDF5 output pipeline pause until active development resumes.
+>
+> **Expected resumption: approximately June–August 2026.**
+>
+> — *Liran M. Schwartz (LiranOG)*
 
 ---
 
@@ -60,6 +72,14 @@ with the broader simulation ecosystem.
 - Live chirp frequency and energy/momentum loss tracking
 - Accretion disk luminosity rendering (Novikov-Thorne model)
 - CSV telemetry export for offline analysis
+
+---
+
+### 🌐 Live Demo
+
+**[→ Launch VORTEX ETERNITY](https://liranog.github.io/VORTEX/)**
+
+>**No installation. No dependencies to install. Open in any modern browser.**
 
 ## Astrophysical Scenarios
 
@@ -279,6 +299,21 @@ merger timescale (1.70×10¹² yr) confirms purely Newtonian-regime dynamics wit
 
 ---
 
+## 📖 Extended Technical Documentation
+
+This repository contains the standalone deployment of VORTEX ETERNITY.
+A deeper technical README — covering the full architecture, zero-allocation
+hot-path design, cinematic recording system, Tactical Minimap 3.0, and the
+complete keyboard reference — is maintained inside the GRANITE-NR ecosystem:
+
+**[→ VORTEX ETERNITY — Full Technical Documentation](https://github.com/LiranOG/Granite-NR/tree/main/viz/vortex_eternity)**
+
+VORTEX serves as the interactive WebGL frontend for the GRANITE numerical
+relativity engine, and its extended docs reflect that tighter integration
+with the broader simulation ecosystem.
+
+---
+
 ## 📊 Telemetry Export
 
 VORTEX exports real-time simulation data as CSV, including:
@@ -320,6 +355,6 @@ GPL 3.0 License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Liran Schwartz** · [LinkedIn](https://linkedin.com/in/liran-schwartz) · [ORCID](https://orcid.org/0009-0008-8035-1308) · [GitHub](https://github.com/LiranOG)
+**Liran Schwartz** · [ORCID](https://orcid.org/0009-0008-8035-1308) · [GitHub](https://github.com/LiranOG)
 
 *Part of an ongoing independent research program in computational physics and AI systems.*
